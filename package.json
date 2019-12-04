@@ -1,0 +1,20 @@
+{
+  "name": "parcel-bundling",
+  "version": "1.0.0",
+  "description": "Create Hello world react app with parcel bundling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodorro/parcel-bundling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodorro/parcel-bundling/issues"
+  },
+  "homepage": "https://github.com/rodorro/parcel-bundling#readme"
+}
