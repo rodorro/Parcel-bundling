@@ -1,3 +1,7 @@
+import dotenv from 'dotenv';
+
+dotenv.config();
+
 export function getEnvironmentMode(): string {
   return `${process.env.NODE_ENV}`;
 }
