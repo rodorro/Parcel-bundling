@@ -1,0 +1,15 @@
+$blue-color: teal;
+
+body {
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+img {
+  display: block;
+  width: 600px;
+  margin-top: 5em;
+  align-self: center;
+}
